@@ -277,6 +277,7 @@ nav > ul > li > a {
 .imgB {
   height: 400px;
   width: 490px;
+  object-fit: cover;
   margin: 0 0 20px 0;
 }
 
@@ -286,10 +287,6 @@ footer {
   background-color: black;
   color: white;
   text-align: center; 
-}
-
-footer > p {
-
 }
 
 .fab {
